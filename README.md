@@ -1,4 +1,9 @@
-# Week 2 – AI Orchestration Pipeline
+# AIPI 561 (Operationalizing AI) - Week 2 Project
+### Author: Rajiv Raman
+### Institution: Duke University
+### Date: June 15th, 2025
+
+## Overview
 
 This project implements a modular AI pipeline that performs a sequence of inference steps using AWS Bedrock. The pipeline includes retry logic and monitoring support.
 
